@@ -31,10 +31,12 @@ Include screenshots or visuals of the bot in action here.
 
 Feel free to explore the functionalities of this Matrix Bot for all your linear algebra needs! 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <img src="assets/IMG_2270.PNG" alt="Screenshot 1" width="400" style="margin: 20px;">
-    <img src="assets/IMG_2272.PNG" alt="Screenshot 2" width="400" style="margin: 20px;">
-    <img src="assets/IMG_2273.PNG" alt="Screenshot 3" width="400" style="margin: 20px;">
-    <img src="assets/IMG_2274.PNG" alt="Screenshot 4" width="400" style="margin: 20px;">
+    <img src="assets/IMG_2273.PNG" alt="Screenshot 3" width="250" style="margin: 20px;">
+    <img src="assets/IMG_2274.PNG" alt="Screenshot 4" width="250" style="margin: 20px;">
+</div>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <img src="assets/IMG_2273.PNG" alt="Screenshot 3" width="250" style="margin: 20px;">
+    <img src="assets/IMG_2274.PNG" alt="Screenshot 4" width="250" style="margin: 20px;">
 </div>
 
 If you encounter any issues or have suggestions for improvements, please let us know. 🚀
