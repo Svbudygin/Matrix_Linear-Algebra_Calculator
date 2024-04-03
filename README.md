@@ -37,6 +37,6 @@ Feel free to explore the functionalities of this Matrix Bot for all your linear 
     <img src="assets/IMG_2274.PNG" alt="Screenshot 4" width="400" style="margin: 20px;">
 </div>
 
-If you encounter any issues or have suggestions for improvements, please let us know.
+If you encounter any issues or have suggestions for improvements, please let us know. 🚀
 
 
